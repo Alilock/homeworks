@@ -1,0 +1,14 @@
+C:\Users\Cashloans\source\repos\24may\24may\bin\Debug\netcoreapp3.1\24may.exe
+C:\Users\Cashloans\source\repos\24may\24may\bin\Debug\netcoreapp3.1\24may.deps.json
+C:\Users\Cashloans\source\repos\24may\24may\bin\Debug\netcoreapp3.1\24may.runtimeconfig.json
+C:\Users\Cashloans\source\repos\24may\24may\bin\Debug\netcoreapp3.1\24may.runtimeconfig.dev.json
+C:\Users\Cashloans\source\repos\24may\24may\bin\Debug\netcoreapp3.1\24may.dll
+C:\Users\Cashloans\source\repos\24may\24may\bin\Debug\netcoreapp3.1\24may.pdb
+C:\Users\Cashloans\source\repos\24may\24may\obj\Debug\netcoreapp3.1\24may.csproj.AssemblyReference.cache
+C:\Users\Cashloans\source\repos\24may\24may\obj\Debug\netcoreapp3.1\24may.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cashloans\source\repos\24may\24may\obj\Debug\netcoreapp3.1\24may.AssemblyInfoInputs.cache
+C:\Users\Cashloans\source\repos\24may\24may\obj\Debug\netcoreapp3.1\24may.AssemblyInfo.cs
+C:\Users\Cashloans\source\repos\24may\24may\obj\Debug\netcoreapp3.1\24may.csproj.CoreCompileInputs.cache
+C:\Users\Cashloans\source\repos\24may\24may\obj\Debug\netcoreapp3.1\24may.dll
+C:\Users\Cashloans\source\repos\24may\24may\obj\Debug\netcoreapp3.1\24may.pdb
+C:\Users\Cashloans\source\repos\24may\24may\obj\Debug\netcoreapp3.1\24may.genruntimeconfig.cache
